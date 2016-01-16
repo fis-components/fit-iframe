@@ -1,0 +1,10 @@
+{
+    "name": "fit-iframe",
+    "description": "Iframe",
+    "repos": "https://github.com/tb-component/pc-iframe.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "0.0.2"
+}
